@@ -1,0 +1,24 @@
+{
+  "name": "kata-practice",
+  "version": "1.0.0",
+  "description": "A project for practicing coding katas in TypeScript.",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "bun test"
+  },
+  "dependencies": {
+    "bun-types": "^1.2.2"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.2.2",
+    "bun": "^1.2.2",
+    "typescript": "^4.5.0"
+  },
+  "keywords": [
+    "typescript",
+    "katas",
+    "testing"
+  ],
+  "author": "",
+  "license": "ISC"
+}
