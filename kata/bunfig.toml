@@ -1,0 +1,8 @@
+# bunfig.toml
+
+name = "kata-practice"
+version = "0.1.0"
+entry = "src/kata1.js"
+test = "bun test"
+dependencies = { "bun" = "*" }
+test_runner = "bun"
