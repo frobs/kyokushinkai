@@ -18,4 +18,4 @@ List of current branches
 * rust-unit
 * scala-scalatest
 * javascript-bun
-  typescript-bun
+* typescript-bun
